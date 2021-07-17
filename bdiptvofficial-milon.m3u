@@ -95,6 +95,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?Policy=eyJTd
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,DD Sports
 https://cutt.ly/hnPbKEq
 
+#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="",Pluto TV Horror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 #EXTINF:-1 tvg-logo="" group-title="Music" ,9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
