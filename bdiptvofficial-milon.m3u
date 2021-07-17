@@ -204,6 +204,12 @@ http://tv.pmcon.net/hls/stream33.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Documentary", Channel 24
 https://wyjs.tk/index.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insighttv-samsungindia.amagi.tv/playlist.m3u8:Insight TV (India)
+#DESCRIPTION Insight TV (India)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//introuble-samsungindia.amagi.tv/playlist.m3u8:Introuble (India)
+#DESCRIPTION Introuble (India)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//inwild-samsungindia.amagi.tv/playlist.m3u8:Inwild (India)
+#DESCRIPTION Inwild (India)
 
 
 
