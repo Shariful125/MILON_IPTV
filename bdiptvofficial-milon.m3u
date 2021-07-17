@@ -759,6 +759,9 @@ http://212.224.98.196="https://i.imgur.com/TL2jAU6.png:2200/R-EX/HINDI_STAR_BHAR
 #EXTINF:-1 tvg-logo="" group-title="INDIAN Non Bdix", STAR PLUS HD
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
 
+#EXTINF:-1 ,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="INDIAN Non Bdix", SONY MAX HD
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
 
