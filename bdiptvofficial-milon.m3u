@@ -635,6 +635,9 @@ http://tv.aliflailabd.com:8989/9xm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sangeet Bangla
 http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-name="Pluto TV Spotlight" tvg-country="US" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="",Pluto TV Spotlight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 
 
